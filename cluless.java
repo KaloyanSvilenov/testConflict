@@ -10,4 +10,8 @@ public class cluless
     public cluless() {
         this.balls = 2;
     }
+
+    public int getBalls() {
+        return balls;
+    }
 }
